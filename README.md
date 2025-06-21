@@ -18,7 +18,7 @@ Hyperparameter optimization is performed on models using GridSearchCV and Random
 
 ## Feature Importance
 
-Feature importances are examined with RFECV. 
+Feature importances are identified with RFECV. 
 
 ## Testing the Model
 The model is tested on classfication metrics and evaluated mainly on f1 score with considerations to precision and recall. 
